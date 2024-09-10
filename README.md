@@ -40,7 +40,7 @@ File Structure:-
 
 Setup Instructions:-
 --------------------
-* Clone the repository:git clone https://github.com/Jayanth-4/calculator-app.git
+* Clone the repository:git clone https://github.com/Jayanth-4/Calculator.git
 * Open the index.html file in your browser to use the calculator.
 
 Customization:-
